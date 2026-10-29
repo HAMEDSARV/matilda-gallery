@@ -1,0 +1,18 @@
+{
+  "png": "Necklace\\2\\out put\\final.png",
+  "webp": "Necklace\\2\\out put\\final.webp",
+  "width": 941,
+  "height": 1672,
+  "requiredWidth": 1080,
+  "requiredHeight": 1920,
+  "exactDimensions": false,
+  "exactRatio": false,
+  "losslessWebpRequested": true,
+  "decodedPixelsIdentical": true,
+  "sourceColourspace": "srgb",
+  "exportedColourspace": "srgb",
+  "sourceHasIccProfile": false,
+  "exportHasIccProfile": false,
+  "visualApproval": "not assessed by this script",
+  "note": "Lossless encoding does not certify product, background, colour accuracy, or generation quality."
+}

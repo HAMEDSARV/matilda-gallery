@@ -1,0 +1,7 @@
+PROMPT/PROMPT.txt -text whitespace=cr-at-eol
+**/request.txt -text whitespace=cr-at-eol
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jfif binary
+*.webp binary

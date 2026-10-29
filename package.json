@@ -1,0 +1,10 @@
+{
+  "name": "matilda-product-images",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local lossless export support for the built-in image workflow",
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}
