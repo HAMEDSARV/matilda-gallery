@@ -1,0 +1,13 @@
+{
+  "inputFingerprint": "d65aba85a7059eddb7df5b4e2eafed13d3492173c51d12f9145b181def708d98",
+  "sourceHashes": {
+    "1.jpeg": "c6cb2628dc3131e34566df6b182eee17e13b91aef77ded4ea5538bca3e8ac586",
+    "2.jpeg": "7f031ad1c2da64a6de96929c2e1ee04d83ddf0b91468a266c7994ef9448322e5",
+    "3.jfif": "4ebe28950eba4036647e71ba72790f2f806700fa0fdbebf29ebaf6e3d47d15e1",
+    "background.png": "9e263d679875bc2af4e080c941502d31e67ef57b38133108bc2515475474cb53",
+    "color.png": "e75c83530988d5cbf76a2bb7f4234804c3986a3a71d8394072685cb3fd67948e"
+  },
+  "status": "delivered_skip",
+  "visualApproval": "See review.txt; not inferred by planner",
+  "baselineRecordedAt": "2026-11-01T09:51:06.638Z"
+}

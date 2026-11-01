@@ -1,0 +1,44 @@
+{
+  "promptSha256": "1399911ee6a009fc6fee4f96da015d5453984280dfb081c2494f9cb56c5360de",
+  "products": [
+    {
+      "product": "Necklace/1",
+      "status": "delivered_skip",
+      "issues": [],
+      "dimensions": [
+        941,
+        1672
+      ],
+      "exactTargetDimensions": false,
+      "visualApproval": "See review.txt; not inferred by planner",
+      "inputBaseline": "previously recorded"
+    },
+    {
+      "product": "Necklace/2",
+      "status": "delivered_skip",
+      "issues": [],
+      "dimensions": [
+        941,
+        1672
+      ],
+      "exactTargetDimensions": false,
+      "visualApproval": "See review.txt; not inferred by planner",
+      "inputBaseline": "previously recorded"
+    },
+    {
+      "product": "Necklace/3",
+      "status": "delivered_skip",
+      "issues": [],
+      "dimensions": [
+        941,
+        1672
+      ],
+      "exactTargetDimensions": false,
+      "visualApproval": "See review.txt; not inferred by planner",
+      "inputBaseline": "previously recorded"
+    }
+  ],
+  "summary": {
+    "delivered_skip": 3
+  }
+}
