@@ -1,0 +1,9 @@
+Experimental preview only; user review pending.
+Source: Necklace/1/out put/final.png
+Source dimensions: 941x1672
+Preview dimensions: 1080x1919
+Method: proportional Lanczos3 resampling; no AI reconstruction, sharpening, cropping or retouching.
+No new photographic detail is recovered. Resampling changes pixel values and may soften edges or cause ringing.
+Not exactly 1080x1920: original proportions retained rather than stretched or cropped.
+Original background and product pixels are resampled together; pixel-exact preservation is not claimed.
+Not enabled for batch delivery.

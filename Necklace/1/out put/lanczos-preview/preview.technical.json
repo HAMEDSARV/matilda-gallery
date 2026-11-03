@@ -1,0 +1,18 @@
+{
+  "png": "Necklace\\1\\out put\\lanczos-preview\\preview.png",
+  "webp": "Necklace\\1\\out put\\lanczos-preview\\preview.webp",
+  "width": 1080,
+  "height": 1919,
+  "requiredWidth": 1080,
+  "requiredHeight": 1920,
+  "exactDimensions": false,
+  "exactRatio": false,
+  "losslessWebpRequested": true,
+  "decodedPixelsIdentical": true,
+  "sourceColourspace": "srgb",
+  "exportedColourspace": "srgb",
+  "sourceHasIccProfile": false,
+  "exportHasIccProfile": false,
+  "visualApproval": "not assessed by this script",
+  "note": "Lossless encoding does not certify product, background, colour accuracy, or generation quality."
+}

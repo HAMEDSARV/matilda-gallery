@@ -1,4 +1,6 @@
 .venv/
+.token-optimizer-source/
+.graphify-source/
 node_modules/
 __pycache__/
 *.pyc
