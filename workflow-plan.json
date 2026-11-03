@@ -1,44 +1,29 @@
 {
-  "promptSha256": "1399911ee6a009fc6fee4f96da015d5453984280dfb081c2494f9cb56c5360de",
+  "promptPolicy": "category-specific only; no general fallback",
   "products": [
     {
       "product": "Necklace/1",
-      "status": "delivered_skip",
+      "status": "changed_inputs_review",
       "issues": [],
-      "dimensions": [
-        941,
-        1672
-      ],
-      "exactTargetDimensions": false,
-      "visualApproval": "See review.txt; not inferred by planner",
-      "inputBaseline": "previously recorded"
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4"
     },
     {
       "product": "Necklace/2",
-      "status": "delivered_skip",
+      "status": "changed_inputs_review",
       "issues": [],
-      "dimensions": [
-        941,
-        1672
-      ],
-      "exactTargetDimensions": false,
-      "visualApproval": "See review.txt; not inferred by planner",
-      "inputBaseline": "previously recorded"
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4"
     },
     {
       "product": "Necklace/3",
-      "status": "delivered_skip",
+      "status": "changed_inputs_review",
       "issues": [],
-      "dimensions": [
-        941,
-        1672
-      ],
-      "exactTargetDimensions": false,
-      "visualApproval": "See review.txt; not inferred by planner",
-      "inputBaseline": "previously recorded"
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4"
     }
   ],
   "summary": {
-    "delivered_skip": 3
+    "changed_inputs_review": 3
   }
 }

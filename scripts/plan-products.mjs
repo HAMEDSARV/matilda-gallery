@@ -6,12 +6,10 @@ import sharp from 'sharp';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const categories = ['Ring','Necklace','Bracelet','Partial jewelry set (half set)','Full jewelry set','Leather bracelet','Gold bracelet','Accessory bracelet','Chain','Earrings','Bangle','Coin','Custom products'];
-const expected = '1399911ee6a009fc6fee4f96da015d5453984280dfb081c2494f9cb56c5360de';
 const hash = data => crypto.createHash('sha256').update(data).digest('hex');
-const prompt = await fs.readFile(path.join(root, 'PROMPT/PROMPT.txt'));
-if (hash(prompt) !== expected) throw new Error('Original prompt changed; planning stopped.');
+const promptMap = JSON.parse(await fs.readFile(path.join(root,'PROMPT/categories.json'),'utf8'));
 const exists = async p => { try { await fs.access(p); return true; } catch (e) { if(e.code === 'ENOENT') return false; throw e; } };
-const report = { promptSha256: expected, products: [], summary: {} };
+const report = { promptPolicy: 'category-specific only; no general fallback', products: [], summary: {} };
 for (const category of categories) {
   const categoryPath = path.join(root, category);
   if (!await exists(categoryPath)) continue;
@@ -21,6 +19,19 @@ for (const category of categories) {
     const output = path.join(dir, 'out put');
     const item = { product: `${category}/${folder.name}`, status: '', issues: [] };
     try {
+      const promptName = promptMap[category];
+      const promptPath = promptName && path.resolve(root,'PROMPT',promptName);
+      const promptRoot = path.join(root,'PROMPT') + path.sep;
+      if (!promptPath || !promptPath.startsWith(promptRoot) || !await exists(promptPath)) {
+        item.status = 'missing_prompt';
+        item.issues.push('Category-specific prompt unavailable; no generation or general fallback');
+        report.products.push(item);
+        report.summary[item.status] = (report.summary[item.status] ?? 0) + 1;
+        continue;
+      }
+      const promptHash = hash(await fs.readFile(promptPath));
+      item.promptFile = path.relative(root,promptPath);
+      item.promptSha256 = promptHash;
       const names = (await fs.readdir(dir, {withFileTypes:true})).filter(e => e.isFile()).map(e => e.name);
       const images = names.filter(n => /\.(png|jpe?g|jfif|webp)$/i.test(n));
       const backgrounds = images.filter(n => /^background\./i.test(n));
@@ -36,7 +47,7 @@ for (const category of categories) {
         await sharp(bytes).stats(); // Decode locally; no image-model call.
         fingerprints[name] = hash(bytes);
       }
-      const fingerprint = hash(JSON.stringify({prompt:expected,files:fingerprints}));
+      const fingerprint = hash(JSON.stringify({prompt:promptHash,files:fingerprints}));
       const statePath = path.join(output,'workflow-state.json');
       let previous;
       if(await exists(statePath)) previous = JSON.parse(await fs.readFile(statePath,'utf8'));
@@ -62,7 +73,7 @@ for (const category of categories) {
       else item.status = 'ready';
       if(!previous && item.status !== 'blocked_inputs') {
         await fs.mkdir(output,{recursive:true});
-        await fs.writeFile(statePath, JSON.stringify({inputFingerprint:fingerprint,sourceHashes:fingerprints,status:item.status,visualApproval:item.visualApproval ?? 'pending',baselineRecordedAt:new Date().toISOString()},null,2)+'\n',{flag:'wx'});
+        await fs.writeFile(statePath, JSON.stringify({inputFingerprint:fingerprint,promptFile:item.promptFile,promptSha256:promptHash,sourceHashes:fingerprints,status:item.status,visualApproval:item.visualApproval ?? 'pending',baselineRecordedAt:new Date().toISOString()},null,2)+'\n',{flag:'wx'});
       }
     } catch(error) { item.status = 'failed_review'; item.issues.push(error.message); }
     report.products.push(item);
