@@ -1,0 +1,52 @@
+{
+  "product": "Necklace/178792",
+  "requestFile": "Necklace/178792/out put/careful-1793718477324/request.txt",
+  "references": [
+    "F:/CODEX/agent skill site/Necklace/178792/3.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178792/1.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178792/background.png",
+    "F:/CODEX/agent skill site/Necklace/178792/color.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178792/out put/careful-1793718477324/material-reference.png"
+  ],
+  "categoryPrompt": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "b6ccc54acf4e004d0fe8be5eeabc63d504a536a2ba64206dbe4df65b2903a41a",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "technical": {
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "dimensions": [
+      [
+        1080,
+        1919
+      ],
+      [
+        1080,
+        1919
+      ]
+    ],
+    "spaces": [
+      "srgb",
+      "srgb"
+    ],
+    "decodedPixelsIdentical": true,
+    "losslessWebp": true
+  },
+  "visual": {
+    "geometry": "Three overlapping open hearts and a single pendant retained; outline made more regular and wider, chain arrangement changed from source",
+    "background": "Branding unobstructed but upper mark resized relative to master",
+    "count": "Three hearts, one necklace; no crown copied from gloss reference",
+    "finish": "Polished gold with light edges and localized reflections",
+    "placement": "Chain inset but endpoints slightly exceed specified horizontal bounds",
+    "verdict": "Draft requiring review, exact preservation not certified"
+  },
+  "approval": "pending user review",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": "Necklace/178792/out put/careful-1793718477324/delivery-fcfab25b-7209-496e-8691-18986712871a",
+  "finishedAt": "2026-11-03T15:10:35.576Z"
+}

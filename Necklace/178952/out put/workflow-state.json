@@ -1,0 +1,16 @@
+{
+  "inputFingerprint": "8663e5599faf9246a90a8c1f6675f8173cce25bd4c34a214d283ba28091a77b7",
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "sourceHashes": {
+    "1.jpeg": "c29198a28005f1104a36605461c4e3d63381288557d94f47c5fb6f6cb7e35bf8",
+    "2.jpeg": "984b0d2d2222df223c85cb7da4ebf68f9ad28d1b5de0ba23201d25cf3d61f3eb",
+    "3.jpeg": "8d4a040d79a045051d3ebcf17ef5a4111e3683ebbf30ba317712028f141ac490",
+    "background.png": "9e263d679875bc2af4e080c941502d31e67ef57b38133108bc2515475474cb53",
+    "color.jpeg": "cbbded627dedcb8de3fd7d8ec3a3d23be77aa45b98bbb973f2e28465ccc5dc87"
+  },
+  "status": "delivered_visual_review_waived",
+  "visualApproval": "review waived by user",
+  "baselineRecordedAt": "2026-11-03T11:05:17.565Z",
+  "latestReview": "Necklace\\178952\\out put\\continuation-1793773364962\\review.json"
+}

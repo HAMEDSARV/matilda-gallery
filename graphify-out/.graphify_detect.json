@@ -1,0 +1,80 @@
+{
+  "files": {
+    "code": [
+      "F:\\CODEX\\agent skill site\\scripts\\export-lossless.mjs",
+      "F:\\CODEX\\agent skill site\\scripts\\graphify-project.py",
+      "F:\\CODEX\\agent skill site\\scripts\\plan-products.mjs",
+      "F:\\CODEX\\agent skill site\\scripts\\prepare-delivery.mjs",
+      "F:\\CODEX\\agent skill site\\scripts\\upscale-preview.mjs"
+    ],
+    "document": [
+      "F:\\CODEX\\agent skill site\\AGENTS.md",
+      "F:\\CODEX\\agent skill site\\CONTENT_RULES.txt",
+      "F:\\CODEX\\agent skill site\\PROMPT\\ADDENDUM-lighting-polish.txt",
+      "F:\\CODEX\\agent skill site\\PROMPT\\ADDENDUM-metallic-reference.txt",
+      "F:\\CODEX\\agent skill site\\README.md",
+      "F:\\CODEX\\agent skill site\\SKILL.md"
+    ],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "total_files": 11,
+  "total_words": 6423,
+  "needs_graph": false,
+  "warning": "Corpus is ~6,423 words - fits in a single context window. You may not need a graph.",
+  "skipped_sensitive": [],
+  "unclassified": [],
+  "walk_errors": [],
+  "ignored": [
+    "F:\\CODEX\\agent skill site\\.agents\\",
+    "F:\\CODEX\\agent skill site\\.gitattributes",
+    "F:\\CODEX\\agent skill site\\.gitignore",
+    "F:\\CODEX\\agent skill site\\.graphify-source\\",
+    "F:\\CODEX\\agent skill site\\.graphifyignore",
+    "F:\\CODEX\\agent skill site\\.token-optimizer-source\\",
+    "F:\\CODEX\\agent skill site\\.venv-graphify\\",
+    "F:\\CODEX\\agent skill site\\Accessory bracelet\\",
+    "F:\\CODEX\\agent skill site\\Bangle\\",
+    "F:\\CODEX\\agent skill site\\Bracelet\\",
+    "F:\\CODEX\\agent skill site\\Chain\\",
+    "F:\\CODEX\\agent skill site\\Coin\\",
+    "F:\\CODEX\\agent skill site\\Custom products\\",
+    "F:\\CODEX\\agent skill site\\Earrings\\",
+    "F:\\CODEX\\agent skill site\\Full jewelry set\\",
+    "F:\\CODEX\\agent skill site\\Gold bracelet\\",
+    "F:\\CODEX\\agent skill site\\Leather bracelet\\",
+    "F:\\CODEX\\agent skill site\\Necklace\\",
+    "F:\\CODEX\\agent skill site\\PROMPT\\PROMPT.txt",
+    "F:\\CODEX\\agent skill site\\PROMPT\\categories.json",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Bangle.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Earrings.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Full jewelry set.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Gold bracelet.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Leather bracelet.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Necklace.docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt Partial jewelry set (half set).docx",
+    "F:\\CODEX\\agent skill site\\PROMPT\\prompt ring.docx",
+    "F:\\CODEX\\agent skill site\\Partial jewelry set (half set)\\",
+    "F:\\CODEX\\agent skill site\\Ring\\",
+    "F:\\CODEX\\agent skill site\\TEST_REPORT.txt",
+    "F:\\CODEX\\agent skill site\\background\\",
+    "F:\\CODEX\\agent skill site\\batch-run-2026-11-03.json",
+    "F:\\CODEX\\agent skill site\\color\\",
+    "F:\\CODEX\\agent skill site\\lighting-batch-2026-11-03.json",
+    "F:\\CODEX\\agent skill site\\package.json",
+    "F:\\CODEX\\agent skill site\\workflow-plan.json",
+    "F:\\CODEX\\agent skill site\\قوانین و دستورالعمل ها\\"
+  ],
+  "pruned_noise_dirs": [
+    "F:\\CODEX\\agent skill site\\.git\\",
+    "F:\\CODEX\\agent skill site\\.venv\\",
+    "F:\\CODEX\\agent skill site\\graphify-out\\",
+    "F:\\CODEX\\agent skill site\\node_modules\\"
+  ],
+  "resolution_inputs": [
+    "F:\\CODEX\\agent skill site\\package-lock.json"
+  ],
+  "graphifyignore_patterns": 20,
+  "scan_root": "F:\\CODEX\\agent skill site"
+}

@@ -1,0 +1,20 @@
+{
+  "source": "Necklace\\3\\out put\\revision-lighting-MdJjov\\generated.png",
+  "sourceSha256": "956344a03292336364ed97f7f147819a43d709f868ae603dbba59aaa090697f6",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "dimensions": [
+    1080,
+    1919
+  ],
+  "method": "lanczos3",
+  "aiReconstruction": false,
+  "sharpening": false,
+  "cropping": false,
+  "exactTargetDimensions": false,
+  "decodedPixelsIdentical": true,
+  "visualApproval": "pending",
+  "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+}

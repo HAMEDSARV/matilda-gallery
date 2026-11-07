@@ -1,0 +1,888 @@
+{
+  "nodes": [
+    {
+      "id": "scripts_export_lossless",
+      "label": "export-lossless.mjs",
+      "file_type": "code",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_export_lossless_root",
+      "label": "root",
+      "file_type": "code",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_export_lossless_input",
+      "label": "input",
+      "file_type": "code",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_export_lossless_relative",
+      "label": "relative",
+      "file_type": "code",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_export_lossless_report",
+      "label": "report",
+      "file_type": "code",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_graphify_project",
+      "label": "graphify-project.py",
+      "file_type": "code",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_graphify_project_write_json",
+      "label": "write_json()",
+      "file_type": "code",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L16",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_graphify_project_read_json",
+      "label": "read_json()",
+      "file_type": "code",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L20",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_graphify_project_prepare",
+      "label": "prepare()",
+      "file_type": "code",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L24",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_graphify_project_build",
+      "label": "build()",
+      "file_type": "code",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L39",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products",
+      "label": "plan-products.mjs",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_root",
+      "label": "root",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_categories",
+      "label": "categories",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_hash",
+      "label": "hash()",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L9",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_promptmap",
+      "label": "promptMap",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_exists",
+      "label": "exists()",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L11",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_plan_products_report",
+      "label": "report",
+      "file_type": "code",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery",
+      "label": "prepare-delivery.mjs",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_root",
+      "label": "root",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_input",
+      "label": "input",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_relative",
+      "label": "relative",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_resolvedrelative",
+      "label": "resolvedRelative",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_scale",
+      "label": "scale",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_width",
+      "label": "width",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_height",
+      "label": "height",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_destination",
+      "label": "destination",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_pipeline",
+      "label": "pipeline",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_prepare_delivery_report",
+      "label": "report",
+      "file_type": "code",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_upscale_preview",
+      "label": "upscale-preview.mjs",
+      "file_type": "code",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_upscale_preview_height",
+      "label": "height",
+      "file_type": "code",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_upscale_preview_pngpath",
+      "label": "pngPath",
+      "file_type": "code",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L13",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "scripts_export_lossless",
+      "target": "ref_node_fs",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "ref_node_path",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "ref_node_url",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "ref_sharp",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "scripts_export_lossless_root",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "scripts_export_lossless_input",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "scripts_export_lossless_relative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_export_lossless",
+      "target": "scripts_export_lossless_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/export-lossless.mjs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "sys",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "datetime",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "graphify_detect",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "graphify_extract",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "graphify_cache",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_write_json",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_read_json",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_prepare",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_prepare",
+      "target": "scripts_graphify_project_write_json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_build",
+      "target": "scripts_graphify_project_read_json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_build",
+      "target": "scripts_graphify_project_write_json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L65",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_prepare",
+      "relation": "indirect_call",
+      "context": "collection",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project",
+      "target": "scripts_graphify_project_build",
+      "relation": "indirect_call",
+      "context": "collection",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "ref_node_fs",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "ref_node_path",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "ref_node_crypto",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "ref_node_url",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "ref_sharp",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_root",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_categories",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_hash",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_promptmap",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_exists",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_plan_products",
+      "target": "scripts_plan_products_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-products.mjs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "ref_node_fs",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "ref_node_path",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "ref_node_crypto",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "ref_node_url",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "ref_sharp",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_root",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_input",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_relative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_resolvedrelative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_scale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_width",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_height",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_destination",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_pipeline",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_prepare_delivery",
+      "target": "scripts_prepare_delivery_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/prepare-delivery.mjs",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_upscale_preview",
+      "target": "ref_node_fs",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_upscale_preview",
+      "target": "ref_node_path",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_upscale_preview",
+      "target": "ref_sharp",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_upscale_preview",
+      "target": "scripts_upscale_preview_height",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_upscale_preview",
+      "target": "scripts_upscale_preview_pngpath",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/upscale-preview.mjs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_write_json",
+      "target": "json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_read_json",
+      "target": "json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_graphify_project_prepare",
+      "target": "json",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/graphify-project.py",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "failed_sources": [],
+  "skipped_sources": [],
+  "extracted_sources": [
+    "F:\\CODEX\\agent skill site\\scripts\\export-lossless.mjs",
+    "F:\\CODEX\\agent skill site\\scripts\\graphify-project.py",
+    "F:\\CODEX\\agent skill site\\scripts\\plan-products.mjs",
+    "F:\\CODEX\\agent skill site\\scripts\\prepare-delivery.mjs",
+    "F:\\CODEX\\agent skill site\\scripts\\upscale-preview.mjs"
+  ]
+}

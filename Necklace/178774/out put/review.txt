@@ -1,0 +1,13 @@
+Product: Necklace/178774
+Status: sample accepted by Matilda on 2026-11-03. Technical limitations below remain recorded.
+Prompt: PROMPT/prompt Necklace.docx; full extracted text sent unchanged with asset-role mapping.
+Primary source: 1.jpeg; supplementary references: 2.jpeg, 3.jpeg.
+Background: background.png; color reference: color.jpeg, same folder only.
+Model: Sunburst as specified by user; actual model and max quality not independently reported by tool.
+Visual inspection: mannequin and hand removed, one necklace and original style branding visible. Chain links, pendant finish and reflection patterns differ from the source; exact geometry preservation is not certified. Exact background pixel preservation and numerical gold accuracy were not verified.
+Generated size: 941x1672. Local Lanczos delivery: 1080x1919, not exact 1080x1920. PNG/WebP decoded pixels match; see delivery-report.json in delivery subfolder.
+Matilda accepted this sample and authorized continuing the existing workflow for remaining products. This does not certify future images or exact product-detail preservation.
+Inventory at run start: 75 ready, 3 previous outputs with changed prompt, 2 blocked inputs.
+Generated this run: 1. Remaining new products not generated: 74.
+Blocked folders: Necklace/178788 missing references/photos; Leather bracelet/154948 missing numbered photos.
+Previous outputs Necklace/1, /2, /3 preserved without regeneration.

@@ -1,0 +1,63 @@
+{
+  "product": "Necklace/178794",
+  "directory": "Necklace\\178794\\out put\\continuation-1793771782932",
+  "primary": "2.jpeg",
+  "refs": [
+    "F:\\CODEX\\agent skill site\\Necklace\\178794\\2.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178794\\3.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178794\\background.png",
+    "F:\\CODEX\\agent skill site\\Necklace\\178794\\color.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178794\\out put\\continuation-1793771782932\\material-reference.png"
+  ],
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "25cde85d4a55996be1e57267dde82fa87373f9fe50779ee7665d37ab0f0bc4db",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "status": "user_accepted",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": {
+    "destination": "Necklace\\178794\\out put\\continuation-1793771782932\\delivery-bbdffbe0-7f16-4732-ac88-dc004867d332",
+    "source": "Necklace\\178794\\out put\\continuation-1793771782932\\generated.png",
+    "sourceSha256": "31d03074f82d051f0d6c66fa7d5e3cb16e05b721e84c58959b7e87fec3ab1882",
+    "sourceDimensions": [
+      941,
+      1672
+    ],
+    "dimensions": [
+      1080,
+      1919
+    ],
+    "method": "lanczos3",
+    "aiReconstruction": false,
+    "sharpening": false,
+    "cropping": false,
+    "exactTargetDimensions": false,
+    "decodedPixelsIdentical": true,
+    "visualApproval": "pending",
+    "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+  },
+  "technical": {
+    "directory": "Necklace\\178794\\out put\\continuation-1793771782932\\delivery-bbdffbe0-7f16-4732-ac88-dc004867d332",
+    "dimensions": [
+      1080,
+      1919
+    ],
+    "pixelsIdentical": true,
+    "losslessWebp": true,
+    "colourSpace": "srgb"
+  },
+  "visual": {
+    "singleProduct": true,
+    "branding": "Visible; exact preservation unverified",
+    "geometry": "Pendant appears thicker and larger relative to chain than primary source",
+    "placement": "Fails: cropped chain endpoints run to canvas edges instead of staying within placement rectangle",
+    "finish": "Polished gold with controlled reflections; numerical colour accuracy unverified",
+    "addedObjects": "No extra objects observed",
+    "verdict": "Needs review; not compliant"
+  },
+  "finishedAt": "2026-11-04T05:59:33.070Z",
+  "approval": "User explicitly approved image and requested continuation without further visual review on 2026-11-04"
+}

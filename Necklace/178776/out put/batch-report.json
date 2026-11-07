@@ -1,0 +1,35 @@
+{
+  "product": "Necklace/178776",
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "photos": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "background": "background.png",
+  "color": "color.jpeg",
+  "actualModel": "not exposed by built-in tool",
+  "requestedModel": "GPT Image 2.5 Sunburst, max",
+  "visualReview": "deferred by explicit user instruction; no preservation or color accuracy certification",
+  "destination": "Necklace\\178776\\out put\\delivery-d9898a77-ce66-4869-8350-29aa0305c790",
+  "source": "Necklace\\178776\\out put\\generated.png",
+  "sourceSha256": "8c27125399b6803e2aef3c4971aa77323bb39735cc476430473a6f546569a96e",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "dimensions": [
+    1080,
+    1919
+  ],
+  "method": "lanczos3",
+  "aiReconstruction": false,
+  "sharpening": false,
+  "cropping": false,
+  "exactTargetDimensions": false,
+  "decodedPixelsIdentical": true,
+  "visualApproval": "pending",
+  "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+  "finishedAt": "2026-11-03T11:51:00.804Z"
+}

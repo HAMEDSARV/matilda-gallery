@@ -1,0 +1,236 @@
+{
+  "startedAt": "2026-11-03T12:20:58.289Z",
+  "status": "interrupted_for_metallic_appearance_revision",
+  "sample": "Necklace/178774/out put/revision-lighting-tCs66E",
+  "sampleApproval": "Matilda approved and authorized continuation",
+  "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+  "visualReview": "deferred by user; sample approval does not certify other products",
+  "total": 79,
+  "completed": [
+    {
+      "product": "Necklace/1",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\1\\1.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\1\\2.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\1\\3.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\1\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\1\\color.png"
+      ],
+      "revisionFolder": "Necklace/1/out put/revision-lighting-pNkMPK",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\1\\out put\\revision-lighting-pNkMPK\\delivery-e3dbcf2c-2f75-4f0f-8886-52a30306913c",
+      "source": "Necklace\\1\\out put\\revision-lighting-pNkMPK\\generated.png",
+      "sourceSha256": "fa9f35e1ea8f6fccee45cc03532d9ac2fec78734951c7f4ed61dad9f8038e9c9",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:24:22.440Z"
+    },
+    {
+      "product": "Necklace/2",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\2\\1.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\2\\2.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\2\\3.jfif",
+        "F:\\CODEX\\agent skill site\\Necklace\\2\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\2\\color.png"
+      ],
+      "revisionFolder": "Necklace/2/out put/revision-lighting-FZmFcX",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\2\\out put\\revision-lighting-FZmFcX\\delivery-b2af720a-ae4f-4d75-a892-89998f441496",
+      "source": "Necklace\\2\\out put\\revision-lighting-FZmFcX\\generated.png",
+      "sourceSha256": "34a6527288e3842ad15a9c1c4e224517621e7a4d9efed286e19b60173355362d",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:26:25.276Z"
+    },
+    {
+      "product": "Necklace/3",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\3\\1.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\3\\2.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\3\\3.jpg",
+        "F:\\CODEX\\agent skill site\\Necklace\\3\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\3\\color.png"
+      ],
+      "revisionFolder": "Necklace/3/out put/revision-lighting-MdJjov",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\3\\out put\\revision-lighting-MdJjov\\delivery-a730f035-997d-4387-aa53-f831d8a9d738",
+      "source": "Necklace\\3\\out put\\revision-lighting-MdJjov\\generated.png",
+      "sourceSha256": "956344a03292336364ed97f7f147819a43d709f868ae603dbba59aaa090697f6",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:28:31.261Z"
+    },
+    {
+      "product": "Necklace/178775",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\178775\\1.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178775\\2.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178775\\3.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178775\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\178775\\color.jpeg"
+      ],
+      "revisionFolder": "Necklace/178775/out put/revision-lighting-P2Wn0r",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\178775\\out put\\revision-lighting-P2Wn0r\\delivery-779acff8-5454-462b-a353-ce7496fe96c3",
+      "source": "Necklace\\178775\\out put\\revision-lighting-P2Wn0r\\generated.png",
+      "sourceSha256": "1ea80c4bb6c292a4c5b157d47469439cda171c08efc4940a0ded4ba4c873bef1",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:30:49.887Z"
+    },
+    {
+      "product": "Necklace/178776",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\178776\\1.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178776\\2.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178776\\3.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178776\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\178776\\color.jpeg"
+      ],
+      "revisionFolder": "Necklace/178776/out put/revision-lighting-eDg1zH",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\178776\\out put\\revision-lighting-eDg1zH\\delivery-143dd102-34b9-45fc-a7fd-20b8eda71441",
+      "source": "Necklace\\178776\\out put\\revision-lighting-eDg1zH\\generated.png",
+      "sourceSha256": "48f72d3633da98914c4754ec8f8e2cd3cad539805abb4c70617ee8d15f0c7d2b",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:34:01.260Z"
+    },
+    {
+      "product": "Necklace/178777",
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+      "overrideFile": "PROMPT/ADDENDUM-lighting-polish.txt",
+      "references": [
+        "F:\\CODEX\\agent skill site\\Necklace\\178777\\1.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178777\\2.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178777\\3.jpeg",
+        "F:\\CODEX\\agent skill site\\Necklace\\178777\\background.png",
+        "F:\\CODEX\\agent skill site\\Necklace\\178777\\color.jpeg"
+      ],
+      "revisionFolder": "Necklace/178777/out put/revision-lighting-I5TykJ",
+      "requestedModel": "GPT Image 2.5 Sunburst/max",
+      "actualModel": "not independently reported by built-in tool",
+      "visualReview": "deferred by user; no geometric/background/color-accuracy certification",
+      "destination": "Necklace\\178777\\out put\\revision-lighting-I5TykJ\\delivery-e0d92667-3be9-46f9-a80b-82981034b822",
+      "source": "Necklace\\178777\\out put\\revision-lighting-I5TykJ\\generated.png",
+      "sourceSha256": "d5b63008018ba9d694bd0cda9241e51f091a048e716363694a254fc78f2fd50c",
+      "sourceDimensions": [
+        941,
+        1672
+      ],
+      "dimensions": [
+        1080,
+        1919
+      ],
+      "method": "lanczos3",
+      "aiReconstruction": false,
+      "sharpening": false,
+      "cropping": false,
+      "exactTargetDimensions": false,
+      "decodedPixelsIdentical": true,
+      "visualApproval": "pending",
+      "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed.",
+      "finishedAt": "2026-11-03T12:36:25.298Z"
+    }
+  ],
+  "failed": [],
+  "interruptedAt": "2026-11-03T12:45:26.519Z",
+  "reason": "User supplied base.png and original.png to diagnose metallic specular appearance before further production."
+}

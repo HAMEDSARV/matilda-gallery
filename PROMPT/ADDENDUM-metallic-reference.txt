@@ -1,0 +1,19 @@
+MATILDA USER OVERRIDE — METALLIC APPEARANCE REFERENCE
+Authorized after Matilda compared base.png with original.png on 2026-11-03.
+Append after the unchanged category prompt and lighting/polish addendum.
+
+The supplied material-reference.png (a copy of Matilda's base.png) is a reference ONLY for polished yellow-gold material response, specular clarity and highlight-to-reflection contrast. It is NOT a geometry, thickness, bevel, composition, branding, background or crop reference.
+
+This newer instruction overrides any earlier interpretation of even illumination, soft light, lifted shadows or removed black reflections that would flatten the metal. Remove dirty source lighting and mannequin reflections without removing the controlled darker reflections that make polished metal readable.
+
+Match the reference's convincing polished-metal appearance: luminous gold midtones, distinct clean specular highlights, crisp bright edge reflections and restrained narrow dark reflected accents. Use directional studio lighting that creates readable light-to-dark transitions across existing curved metal surfaces. Keep highlight detail and avoid clipped white patches. Keep dark reflections localized, intentional and neutral-warm rather than broad muddy or blackened areas.
+
+Gold must read as smooth, reflective, freshly polished metal, not matte yellow paint, satin plastic, wax, a uniform flat fill or a blurred airbrushed surface. Retain the #D4AF57 representative midtone anchor without flattening natural metal luminance variation. Do not copy the color card's diagonal gradient or typography.
+
+Surface polish may remove superficial scratches as already authorized. Preserve real edges, intentional engraving, texture that belongs to the design, genuine openings, connections and component count. Never add artificial sparkle stars, glow, bloom, lens flare or a cast shadow to the background.
+
+The actual product photographs remain the sole geometry authority. Do not inflate the pendant, round its bevels, thicken its edges or links, straighten its chain or alter its silhouette to imitate the material reference. Preserve the primary source's photographed arrangement and partial view. No unseen components may be invented. Other product photographs verify details only.
+
+Keep the product-folder background and branding according to the original category prompt. Do not import the material reference's necklace, layout, image proportions, logo size, text or background. Do not use any previous generated product image as the geometry source.
+
+First generate one comparison sample of the crown-heart necklace Necklace/178777 from its original photographs, retaining previous outputs for comparison. Do not claim exact preservation or measured color accuracy without verification.

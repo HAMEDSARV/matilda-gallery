@@ -1,0 +1,479 @@
+{
+  "startedAt": "2026-11-04T05:55:52.252Z",
+  "status": "running",
+  "order": [
+    "Necklace/178794",
+    "Necklace/178795",
+    "Necklace/178807",
+    "Necklace/178808",
+    "Necklace/178810",
+    "Necklace/178811",
+    "Necklace/178812",
+    "Necklace/178813",
+    "Necklace/178814",
+    "Necklace/178815",
+    "Necklace/178952",
+    "Necklace/178953",
+    "Necklace/178954",
+    "Necklace/178957",
+    "Necklace/178958",
+    "Necklace/178959",
+    "Necklace/178965",
+    "Necklace/178968",
+    "Necklace/178969",
+    "Necklace/178970",
+    "Necklace/178986-178988",
+    "Necklace/178989",
+    "Necklace/178990-178991",
+    "Necklace/178992",
+    "Necklace/179009",
+    "Necklace/179010",
+    "Necklace/179012",
+    "Necklace/179043",
+    "Necklace/179044",
+    "Leather bracelet/1151",
+    "Leather bracelet/1156-1157",
+    "Leather bracelet/1453",
+    "Leather bracelet/1461",
+    "Leather bracelet/1462",
+    "Leather bracelet/44801",
+    "Leather bracelet/97758",
+    "Leather bracelet/97760",
+    "Leather bracelet/97776",
+    "Leather bracelet/97786",
+    "Leather bracelet/134335",
+    "Leather bracelet/139296",
+    "Leather bracelet/139823",
+    "Leather bracelet/139826-139835",
+    "Leather bracelet/154948",
+    "Leather bracelet/154950",
+    "Leather bracelet/177831",
+    "Leather bracelet/177833",
+    "Leather bracelet/177835",
+    "Leather bracelet/177836",
+    "Leather bracelet/177837",
+    "Leather bracelet/179076",
+    "Leather bracelet/179077",
+    "Leather bracelet/179078",
+    "Leather bracelet/179079",
+    "Leather bracelet/179080",
+    "Leather bracelet/179081-179082",
+    "Leather bracelet/179083-179084-179085",
+    "Leather bracelet/179086-179087",
+    "Leather bracelet/179088",
+    "Leather bracelet/179090",
+    "Leather bracelet/179091",
+    "Leather bracelet/179092",
+    "Leather bracelet/179093",
+    "Leather bracelet/179095-179096",
+    "Leather bracelet/179097",
+    "Leather bracelet/179098",
+    "Leather bracelet/977880"
+  ],
+  "skipped": [
+    {
+      "product": "Necklace/1",
+      "status": "changed_inputs_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\1\\out put",
+          "dimensions": [
+            941,
+            1672
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\1\\out put\\delivery-340bb12d-f09a-4762-b2a8-6399d9a6dad2",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\1\\out put\\revision-lighting-pNkMPK\\delivery-e3dbcf2c-2f75-4f0f-8886-52a30306913c",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/2",
+      "status": "changed_inputs_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\2\\out put",
+          "dimensions": [
+            941,
+            1672
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\2\\out put\\revision-lighting-FZmFcX\\delivery-b2af720a-ae4f-4d75-a892-89998f441496",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/3",
+      "status": "changed_inputs_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\3\\out put",
+          "dimensions": [
+            941,
+            1672
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\3\\out put\\revision-lighting-MdJjov\\delivery-a730f035-997d-4387-aa53-f831d8a9d738",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178774",
+      "status": "delivered_skip",
+      "outputs": [
+        {
+          "directory": "Necklace\\178774\\out put\\delivery-6176133b-f3d9-42fb-adcd-bd935e42366a",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178774\\out put\\revision-lighting-tCs66E\\delivery-381fd749-1df6-4ba7-9326-4e410132d755",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178775",
+      "status": "delivered_skip",
+      "outputs": [
+        {
+          "directory": "Necklace\\178775\\out put\\delivery-bba216d5-9a99-41ef-982c-7185d1b485d0",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178775\\out put\\revision-lighting-P2Wn0r\\delivery-779acff8-5454-462b-a353-ce7496fe96c3",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178776",
+      "status": "delivered_skip",
+      "outputs": [
+        {
+          "directory": "Necklace\\178776\\out put\\delivery-d9898a77-ce66-4869-8350-29aa0305c790",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178776\\out put\\revision-lighting-eDg1zH\\delivery-143dd102-34b9-45fc-a7fd-20b8eda71441",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178777",
+      "status": "delivered_skip",
+      "outputs": [
+        {
+          "directory": "Necklace\\178777\\out put\\delivery-4ca11a98-fdc6-4e82-a6ee-b475b4960d6e",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178777\\out put\\revision-lighting-I5TykJ\\delivery-e0d92667-3be9-46f9-a80b-82981034b822",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178777\\out put\\revision-metallic-f1XISj\\delivery-d54322d3-80cd-4a00-a829-11fe6ea7d335",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178788",
+      "status": "interrupted_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\178788\\out put\\careful-1793717904780\\delivery-7904c7a2-cb7c-4843-850a-e52c03b66ca4",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        },
+        {
+          "directory": "Necklace\\178788\\out put\\metallic-1793713603781\\delivery-951ba139-f63c-4a8d-9023-a57b4d990917",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178789",
+      "status": "interrupted_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\178789\\out put\\careful-1793718115579\\delivery-be882b0b-440c-4f24-97ad-0e3fc334af25",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178790",
+      "status": "interrupted_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\178790\\out put\\careful-1793718279965\\delivery-95f306c3-a409-4dfb-a97c-67a90f312a85",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178792",
+      "status": "interrupted_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\178792\\out put\\careful-1793718477324\\delivery-fcfab25b-7209-496e-8691-18986712871a",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    },
+    {
+      "product": "Necklace/178793",
+      "status": "interrupted_review",
+      "outputs": [
+        {
+          "directory": "Necklace\\178793\\out put\\careful-1793718667375\\delivery-e4ea51b3-2c64-497a-9b3b-0c90469b1e68",
+          "dimensions": [
+            1080,
+            1919
+          ],
+          "pixelsIdentical": true
+        }
+      ]
+    }
+  ],
+  "review": [
+    {
+      "product": "Necklace/178787",
+      "status": "interrupted_review",
+      "issues": [],
+      "promptFile": "PROMPT\\prompt Necklace.docx",
+      "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4"
+    }
+  ],
+  "completed": [
+    {
+      "product": "Necklace/178794",
+      "status": "user_accepted",
+      "review": "Necklace\\178794\\out put\\continuation-1793771782932\\review.json",
+      "delivery": "Necklace\\178794\\out put\\continuation-1793771782932\\delivery-bbdffbe0-7f16-4732-ac88-dc004867d332"
+    },
+    {
+      "product": "Necklace/178795",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178795\\out put\\continuation-1793772151686\\review.json",
+      "delivery": "Necklace\\178795\\out put\\continuation-1793772151686\\delivery-671a0c70-2aac-4d5d-97d3-8882b6c1434e"
+    },
+    {
+      "product": "Necklace/178807",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178807\\out put\\continuation-1793772281532\\review.json",
+      "delivery": "Necklace\\178807\\out put\\continuation-1793772281532\\delivery-bec74f73-8b3f-4d20-a23c-935efe45f48e"
+    },
+    {
+      "product": "Necklace/178808",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178808\\out put\\continuation-1793772410515\\review.json",
+      "delivery": "Necklace\\178808\\out put\\continuation-1793772410515\\delivery-4ec32fed-69fc-4c96-a1d1-01269e0e307b"
+    },
+    {
+      "product": "Necklace/178810",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178810\\out put\\continuation-1793772532970\\review.json",
+      "delivery": "Necklace\\178810\\out put\\continuation-1793772532970\\delivery-fa9357a9-f9ea-4889-9b89-886e7c784caf"
+    },
+    {
+      "product": "Necklace/178811",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178811\\out put\\continuation-1793772668299\\review.json",
+      "delivery": "Necklace\\178811\\out put\\continuation-1793772668299\\delivery-4520b5f7-d4eb-43d9-9130-32d6555a171c"
+    },
+    {
+      "product": "Necklace/178813",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178813\\out put\\continuation-1793772934239\\review.json",
+      "delivery": "Necklace\\178813\\out put\\continuation-1793772934239\\delivery-22e60131-0681-481d-9974-5de0b957b3d8"
+    },
+    {
+      "product": "Necklace/178814",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178814\\out put\\continuation-1793773080333\\review.json",
+      "delivery": "Necklace\\178814\\out put\\continuation-1793773080333\\delivery-c6a2b20c-5a5e-420e-8783-42c83139d533"
+    },
+    {
+      "product": "Necklace/178815",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178815\\out put\\continuation-1793773228733\\review.json",
+      "delivery": "Necklace\\178815\\out put\\continuation-1793773228733\\delivery-8a338d56-2649-4cf9-ad47-ae5534931cdf"
+    },
+    {
+      "product": "Necklace/178952",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178952\\out put\\continuation-1793773364962\\review.json",
+      "delivery": "Necklace\\178952\\out put\\continuation-1793773364962\\delivery-8ff3f084-21c6-4996-9d13-8eb0fb29363e"
+    },
+    {
+      "product": "Necklace/178953",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178953\\out put\\continuation-1793773507207\\review.json",
+      "delivery": "Necklace\\178953\\out put\\continuation-1793773507207\\delivery-ad9f2223-7a8f-4224-88ce-adda4341aad4"
+    },
+    {
+      "product": "Necklace/178954",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178954\\out put\\continuation-1793773652920\\review.json",
+      "delivery": "Necklace\\178954\\out put\\continuation-1793773652920\\delivery-41c470f1-0c48-4ba5-969f-a6773273fc0e"
+    },
+    {
+      "product": "Necklace/178957",
+      "status": "delivered_visual_review_waived",
+      "review": "Necklace\\178957\\out put\\continuation-1793773801541\\review.json",
+      "delivery": "Necklace\\178957\\out put\\continuation-1793773801541\\delivery-aa5b26c7-3b8a-4f1e-8943-40893839041c"
+    }
+  ],
+  "failed": [
+    {
+      "product": "Necklace/178812",
+      "status": "failed_wrong_product",
+      "review": "Necklace\\178812\\out put\\continuation-1793772785214\\review.json",
+      "delivery": "Necklace\\178812\\out put\\continuation-1793772785214\\delivery-8562f097-f35d-4620-b0b1-19ea3e7d0a9e"
+    }
+  ],
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "modelVerified": false,
+  "remaining": [
+    "Necklace/178958",
+    "Necklace/178959",
+    "Necklace/178965",
+    "Necklace/178968",
+    "Necklace/178969",
+    "Necklace/178970",
+    "Necklace/178986-178988",
+    "Necklace/178989",
+    "Necklace/178990-178991",
+    "Necklace/178992",
+    "Necklace/179009",
+    "Necklace/179010",
+    "Necklace/179012",
+    "Necklace/179043",
+    "Necklace/179044",
+    "Leather bracelet/1151",
+    "Leather bracelet/1156-1157",
+    "Leather bracelet/1453",
+    "Leather bracelet/1461",
+    "Leather bracelet/1462",
+    "Leather bracelet/44801",
+    "Leather bracelet/97758",
+    "Leather bracelet/97760",
+    "Leather bracelet/97776",
+    "Leather bracelet/97786",
+    "Leather bracelet/134335",
+    "Leather bracelet/139296",
+    "Leather bracelet/139823",
+    "Leather bracelet/139826-139835",
+    "Leather bracelet/154948",
+    "Leather bracelet/154950",
+    "Leather bracelet/177831",
+    "Leather bracelet/177833",
+    "Leather bracelet/177835",
+    "Leather bracelet/177836",
+    "Leather bracelet/177837",
+    "Leather bracelet/179076",
+    "Leather bracelet/179077",
+    "Leather bracelet/179078",
+    "Leather bracelet/179079",
+    "Leather bracelet/179080",
+    "Leather bracelet/179081-179082",
+    "Leather bracelet/179083-179084-179085",
+    "Leather bracelet/179086-179087",
+    "Leather bracelet/179088",
+    "Leather bracelet/179090",
+    "Leather bracelet/179091",
+    "Leather bracelet/179092",
+    "Leather bracelet/179093",
+    "Leather bracelet/179095-179096",
+    "Leather bracelet/179097",
+    "Leather bracelet/179098",
+    "Leather bracelet/977880"
+  ],
+  "previousBlocker": "First continuation sample fails geometry and placement requirements; batch generation stopped under project QA gate",
+  "continuationAuthorization": "User explicitly approved image and requested continuation without further visual review on 2026-11-04"
+}

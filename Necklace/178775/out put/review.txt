@@ -1,0 +1,13 @@
+Product: Necklace/178775
+Status: needs review; not approved for publication.
+Prompt: PROMPT/prompt Necklace.docx. Full original text sent unchanged with asset mapping; request.txt contains the actual request.
+Primary: 1.jpeg. Detail references: 2.jpeg and 3.jpeg. Background: background.png. Gold reference: color.jpeg.
+Prompt SHA256: d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4
+Source hashes and input fingerprint: workflow-state.json.
+User-selected model: GPT Image 2.5 Sunburst, max. Tool does not independently expose or confirm model/quality settings.
+Visual review: one necklace appears, mannequin and finger removed, branding remains visible. Chain-link shape, apparent link scale and spacing, chain arrangement, pendant finish and reflections differ from the primary source. Exact geometry is not preserved. Exact background pixels and numerical gold accuracy are not verified.
+Generated image: generated.png, 941x1672.
+Delivery: delivery-bba216d5-9a99-41ef-982c-7185d1b485d0/final.png and final.webp, 1080x1919. Not exact 1080x1920. Lanczos3 resampling; no AI reconstruction in local export. Decoded PNG/WebP pixels identical.
+Execution decision: shared generation-fidelity limitation remains after the accepted sample. Stop further batch generation under the immutable geometry-lock rules rather than multiply approximate reconstructions. Acceptance of 178774 is not acceptance of this output or permission to change future products.
+Inventory before generation: 76 ready, 1 delivered_skip, 3 changed_inputs_review. Both previously incomplete folders now have numbered photos, background and color references. This run generated one new draft; 75 new products remain ungenerated. Existing outputs preserved.
+Next action: resolve a method that preserves photographed product geometry before resuming the remaining batch.

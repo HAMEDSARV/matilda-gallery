@@ -51,8 +51,19 @@ for (const category of categories) {
       const statePath = path.join(output,'workflow-state.json');
       let previous;
       if(await exists(statePath)) previous = JSON.parse(await fs.readFile(statePath,'utf8'));
-      const png = path.join(output,'final.png');
-      const webp = path.join(output,'final.webp');
+      let delivery = output;
+      if(await exists(output) && !await exists(path.join(output,'final.png'))) {
+        const deliveries = (await fs.readdir(output,{withFileTypes:true})).filter(entry => entry.isDirectory() && entry.name.startsWith('delivery-'));
+        const complete = [];
+        for(const entry of deliveries) {
+          const candidate = path.join(output,entry.name);
+          if(await exists(path.join(candidate,'final.png')) && await exists(path.join(candidate,'final.webp'))) complete.push(candidate);
+        }
+        if(complete.length > 1) throw new Error('Multiple delivery folders require explicit selection');
+        if(complete.length === 1) delivery = complete[0];
+      }
+      const png = path.join(delivery,'final.png');
+      const webp = path.join(delivery,'final.webp');
       const hasPng = await exists(png), hasWebp = await exists(webp);
       if(item.issues.length) item.status = 'blocked_inputs';
       else if(previous && previous.inputFingerprint !== fingerprint) item.status = 'changed_inputs_review';
@@ -64,12 +75,13 @@ for (const category of categories) {
         ]);
         if(pm.format !== 'png' || wm.format !== 'webp' || pm.width !== wm.width || pm.height !== wm.height || !a.equals(b)) throw new Error('Existing output pair is invalid or has different pixels');
         item.status = 'delivered_skip';
+        item.outputDirectory = path.relative(root,delivery);
         item.dimensions = [pm.width,pm.height];
         item.exactTargetDimensions = pm.width === 1080 && pm.height === 1920;
         item.visualApproval = previous?.visualApproval ?? 'See review.txt; not inferred by planner';
         item.inputBaseline = previous ? 'previously recorded' : 'recorded now; historical input provenance not verified';
       } else if(hasPng) item.status = 'export_only';
-      else if(hasWebp || await exists(path.join(output,'request.txt')) || previous) item.status = 'interrupted_review';
+      else if(hasWebp || await exists(path.join(output,'request.txt')) || await exists(path.join(output,'generated.png')) || (previous && previous.status !== 'ready')) item.status = 'interrupted_review';
       else item.status = 'ready';
       if(!previous && item.status !== 'blocked_inputs') {
         await fs.mkdir(output,{recursive:true});

@@ -1,0 +1,20 @@
+MATILDA USER OVERRIDE — LIGHTING AND GOLD SURFACE
+Authorized by Matilda on 2026-11-03 after inspecting generated images.
+Append this entire addendum after the unchanged category-specific prompt.
+
+This later instruction overrides earlier requirements to preserve the photographed gold's shadows, highlight locations, reflection patterns and superficial scratches, and earlier prohibitions on new product lighting or polishing. All other restrictions remain binding, especially product geometry, real openings, component count, background, branding and missing-part protection.
+
+Use the original product photographs again, never a previous generated advertisement.
+Preserve the product's actual silhouette, proportions, thickness, link construction, connections, pendant design, engraving and settings. Do not distort, bend, thicken, fuse, symmetrize or redesign any component. Never invent hidden or missing parts.
+
+Disregard incidental shadows, black mannequin reflections and uneven illumination in the source product photographs when setting the visible gold's appearance. Do not reproduce the reference card's diagonal lighting or shadow gradients.
+
+Give visible yellow-gold surfaces bright, even, soft studio illumination with broad, clean, controlled metallic highlights. Lift dirty-looking dark patches and avoid harsh black reflection bands, muddy gold, orange casts, clipped white highlights, fake sparkle, bloom and glow. Preserve enough gradual tonal variation to communicate real metal and depth.
+
+Render visible yellow-gold surfaces smooth, polished and free from superficial scratches, scuffs and imaging noise. This is an authorized surface-retouching change, not permission to alter shape or remove design details. Keep intentional engraving, hallmarks, decorative cuts, real edges, recesses and true openings. Do not polish gemstones, pearls, enamel, leather or non-gold materials. Avoid a plastic, waxy, flattened or painted-metal appearance.
+
+Retain #D4AF57 as the representative yellow-gold midtone anchor with naturally lighter highlights. It is not a flat fill and must not be forced on every pixel.
+
+Apply these changes only to the gold product. Preserve the supplied background, branding, hand and clothing wherever applicable according to the category prompt. Add no new cast shadow to the background. For bracelets, retain only contact shading permitted by that category prompt.
+
+For this revision, first produce a fresh comparison sample. Do not overwrite any previous image. Keep actual output dimensions and tool/model verification limits in the report. A pleasing result does not prove exact geometry preservation.

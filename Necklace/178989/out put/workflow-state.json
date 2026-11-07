@@ -1,0 +1,15 @@
+{
+  "inputFingerprint": "4084c53777e8cfe4bf86a62fe8d17e8254df687b0c3314c67cffa75395b954f5",
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "sourceHashes": {
+    "1.jpeg": "487a6dd1c752c919f9cb56d9468280464be34c0f070342099179abea9ecaa6d6",
+    "2.jpeg": "d31d5581178645d3aa079f0d93283fdabd92ab89ffc564f0cef8bb535d12a16d",
+    "3.jpeg": "53232ccaf2b5be34aa31a68a1446e36aefcdf7bddf9c3afab1f729b710d260db",
+    "background.png": "9e263d679875bc2af4e080c941502d31e67ef57b38133108bc2515475474cb53",
+    "color.jpeg": "cbbded627dedcb8de3fd7d8ec3a3d23be77aa45b98bbb973f2e28465ccc5dc87"
+  },
+  "status": "ready",
+  "visualApproval": "pending",
+  "baselineRecordedAt": "2026-11-03T11:05:22.800Z"
+}

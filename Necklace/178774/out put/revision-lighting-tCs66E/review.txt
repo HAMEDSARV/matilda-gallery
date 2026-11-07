@@ -1,0 +1,11 @@
+Product: Necklace/178774. Fresh generation from original source images.
+Status: lighting comparison sample accepted by Matilda on 2026-11-03. Continue other products using this lighting/polish override. Technical observations below remain recorded.
+Request: request.txt includes the unchanged full Necklace DOCX text, the explicitly authorized lighting/polish override, and actual asset roles.
+Primary photograph: 1.jpeg. Supporting details: 2.jpeg, 3.jpeg. Background: background.png. Gold color: color.jpeg.
+Original prompt SHA256: d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4
+Override: PROMPT/ADDENDUM-lighting-polish.txt. Overrides only source lighting/reflections and superficial gold surface finish; geometry protections remain.
+Visual observation: gold appears brighter and smoother, with cleaner broad highlights and fewer dark source reflections. Chain-link proportions and pendant contour still appear interpreted; exact geometric fidelity is not certified. Exact background pixels and numerical gold accuracy are not verified.
+Model: user selected GPT Image 2.5 Sunburst/max. Connected image tool exposes no model or quality arguments and does not confirm those settings. User reports agent GPT-6.1-sol/light; agent settings were not changed or independently verified.
+Generated dimensions: 941x1672. Delivery dimensions: 1080x1919, not exact 1080x1920.
+Delivery folder: delivery-381fd749-1df6-4ba7-9326-4e410132d755. PNG and lossless WebP decoded pixels identical. Lanczos3 resampling; no AI reconstruction or sharpening during export.
+Previous images are preserved. The old batch was interrupted by the user's lighting revision. No full replacement batch is claimed complete.

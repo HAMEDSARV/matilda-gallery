@@ -1,0 +1,98 @@
+{
+  "product": "Necklace/178788",
+  "createdAt": "2026-11-03T13:51:01.252Z",
+  "status": "failed_visual_quality_draft_preserved",
+  "categoryPrompt": "PROMPT/prompt Necklace.docx",
+  "promptDocxSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "promptExtraction": [
+    {
+      "part": "word/document.xml",
+      "tables": 0
+    }
+  ],
+  "requestFile": "Necklace/178788/out put/metallic-1793713603781/request.txt",
+  "requestSha256": "0db1038808036fe0b8c339a24dd21cb6ba246955763ef268e7c25d06f31795bf",
+  "references": [
+    "F:/CODEX/agent skill site/Necklace/178788/1.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/2.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/background.png",
+    "F:/CODEX/agent skill site/Necklace/178788/color.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/out put/metallic-1793713603781/material-reference.png"
+  ],
+  "primary": "1.jpeg",
+  "supporting": "2.jpeg",
+  "additionalPhotoInspectedButNotSent": "3.jpeg",
+  "sourceHashes": {
+    "1.jpeg": "21ecd6a3f7aaa536b7b0b392818dbd982b98a1d6633a0223a7f1bc8192454f06",
+    "2.jpeg": "1b7e3bf75d918a6b4bc83f4b11d820f99646efaad0873a52d739650f2c786868",
+    "3.jpeg": "2ed4b9bac36db59f47452225083d78a1cd2ba452faffa27b6ffabb908b8dc864",
+    "background.png": "9e263d679875bc2af4e080c941502d31e67ef57b38133108bc2515475474cb53",
+    "color.jpeg": "cbbded627dedcb8de3fd7d8ec3a3d23be77aa45b98bbb973f2e28465ccc5dc87"
+  },
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "modelVerified": false,
+  "modelNote": "Built-in tool exposes no model or quality selector and does not independently report actual settings; previous user-authorized connection used",
+  "technical": {
+    "files": [
+      "Necklace/178788/out put/metallic-1793713603781/delivery-951ba139-f63c-4a8d-9023-a57b4d990917/final.png",
+      "Necklace/178788/out put/metallic-1793713603781/delivery-951ba139-f63c-4a8d-9023-a57b4d990917/final.webp"
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "dimensions": [
+      [
+        1080,
+        1919
+      ],
+      [
+        1080,
+        1919
+      ]
+    ],
+    "colourspaces": [
+      "srgb",
+      "srgb"
+    ],
+    "decodedPixelsIdentical": true,
+    "exactTargetDimensions": false,
+    "losslessWebp": true,
+    "losslessEvidence": "prepare-delivery.mjs uses lossless:true; reread decoded pixel equality verified",
+    "numericGoldAccuracy": "not measured",
+    "pixelExactBackground": "not verified"
+  },
+  "brandCheck": {
+    "region": {
+      "left": 0,
+      "top": 0,
+      "width": 941,
+      "height": 320
+    },
+    "sourceDimensions": [
+      941,
+      1672
+    ],
+    "generatedDimensions": [
+      941,
+      1672
+    ],
+    "pixelsChangedOver8": 12585,
+    "pixelsCompared": 301120,
+    "changedPercent": 4.1793969181721575,
+    "meanAbsoluteChannelDifference": 3.3386689691817217,
+    "note": "Direct same-size upper branding band comparison before Lanczos; supports observed background/branding alteration"
+  },
+  "visual": {
+    "oneProduct": true,
+    "gloss": "Reflective gold appearance present",
+    "geometry": "FAIL: pendant appears thicker and rounded; a raised center dot appears unlike the flat original. Link arrangement and chain fit differ.",
+    "backgroundAndBranding": "FAIL: upper logo and wordmark enlarged/changed relative to local master",
+    "missingParts": "No back chain completed; precise component preservation not certified",
+    "goldColor": "Numerical target accuracy unverified",
+    "extraObjects": "No bust or finger retained; no added cast shadow or sparkle visible",
+    "placement": "FAIL: necklace extends outside 10%-90% placement bounds; chain arrangement differs",
+    "approval": "Not approved; sample approval is not approval of this product"
+  },
+  "action": "No automatic regeneration. Shared geometry/background preservation limitation stops dependent batch; 71 ready products remain ungenerated."
+}

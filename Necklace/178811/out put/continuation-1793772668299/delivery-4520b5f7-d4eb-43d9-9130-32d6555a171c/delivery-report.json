@@ -1,0 +1,20 @@
+{
+  "source": "Necklace\\178811\\out put\\continuation-1793772668299\\generated.png",
+  "sourceSha256": "c7e5ac7856b2ab77a1f52fdf567854cb4300afdeeabf62972e2b095785dfff1d",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "dimensions": [
+    1080,
+    1919
+  ],
+  "method": "lanczos3",
+  "aiReconstruction": false,
+  "sharpening": false,
+  "cropping": false,
+  "exactTargetDimensions": false,
+  "decodedPixelsIdentical": true,
+  "visualApproval": "pending",
+  "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+}

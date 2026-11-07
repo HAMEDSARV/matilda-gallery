@@ -1,0 +1,68 @@
+{
+  "scripts/export-lossless.mjs": {
+    "mtime": 1793207816.449612,
+    "seen": 1793712850.6660912,
+    "ast_hash": "c019020a3fed5b51217438fef9d8df2d",
+    "semantic_hash": "c019020a3fed5b51217438fef9d8df2d"
+  },
+  "scripts/graphify-project.py": {
+    "mtime": 1793712644.8459382,
+    "seen": 1793712850.6660912,
+    "ast_hash": "bf483ca0a3f5a1432f3d5901a369f373",
+    "semantic_hash": "bf483ca0a3f5a1432f3d5901a369f373"
+  },
+  "scripts/plan-products.mjs": {
+    "mtime": 1793705367.2823172,
+    "seen": 1793712850.6660912,
+    "ast_hash": "5aec6bcd4265a3440b62ba1bbfc3bb98",
+    "semantic_hash": "5aec6bcd4265a3440b62ba1bbfc3bb98"
+  },
+  "scripts/prepare-delivery.mjs": {
+    "mtime": 1793700714.5820906,
+    "seen": 1793712850.6660912,
+    "ast_hash": "e328534ef595b02f03a37d4dacdcddfd",
+    "semantic_hash": "e328534ef595b02f03a37d4dacdcddfd"
+  },
+  "scripts/upscale-preview.mjs": {
+    "mtime": 1793700108.828439,
+    "seen": 1793712850.6660912,
+    "ast_hash": "56865f373ae93028428ec6bc632fd826",
+    "semantic_hash": "56865f373ae93028428ec6bc632fd826"
+  },
+  "AGENTS.md": {
+    "mtime": 1793701789.969694,
+    "seen": 1793712850.6660912,
+    "ast_hash": "c4ec52afb7f006067aa8a4c9f4e677ea",
+    "semantic_hash": "c4ec52afb7f006067aa8a4c9f4e677ea"
+  },
+  "CONTENT_RULES.txt": {
+    "mtime": 1793701790.4011629,
+    "seen": 1793712850.6660912,
+    "ast_hash": "e59ddacd361110d30e18777a79eed4b3",
+    "semantic_hash": "e59ddacd361110d30e18777a79eed4b3"
+  },
+  "PROMPT/ADDENDUM-lighting-polish.txt": {
+    "mtime": 1793707592.5775928,
+    "seen": 1793712850.6660912,
+    "ast_hash": "7a9026eadd1b364e6a2907ff4c4ccf8e",
+    "semantic_hash": "7a9026eadd1b364e6a2907ff4c4ccf8e"
+  },
+  "PROMPT/ADDENDUM-metallic-reference.txt": {
+    "mtime": 1793710679.2915735,
+    "seen": 1793712850.6660912,
+    "ast_hash": "ebe6a7255041890535e849dfab9ea6b3",
+    "semantic_hash": "ebe6a7255041890535e849dfab9ea6b3"
+  },
+  "README.md": {
+    "mtime": 1793368086.4364212,
+    "seen": 1793712850.6660912,
+    "ast_hash": "fefdad01c4c7d93ca7e2115c0cdfd1f9",
+    "semantic_hash": "fefdad01c4c7d93ca7e2115c0cdfd1f9"
+  },
+  "SKILL.md": {
+    "mtime": 1793707847.8667986,
+    "seen": 1793712850.6660912,
+    "ast_hash": "4af1059028f01dcbb5bc56b1c053db58",
+    "semantic_hash": "4af1059028f01dcbb5bc56b1c053db58"
+  }
+}

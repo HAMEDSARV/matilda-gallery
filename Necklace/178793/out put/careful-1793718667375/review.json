@@ -1,0 +1,52 @@
+{
+  "product": "Necklace/178793",
+  "requestFile": "Necklace/178793/out put/careful-1793718667375/request.txt",
+  "references": [
+    "F:/CODEX/agent skill site/Necklace/178793/2.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178793/3.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178793/background.png",
+    "F:/CODEX/agent skill site/Necklace/178793/color.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178793/out put/careful-1793718667375/material-reference.png"
+  ],
+  "categoryPrompt": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "f06b5fc05dc1d686a6315504ba6ba547906f005055eb616d8aa1b2152ad5ad8d",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "technical": {
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "dimensions": [
+      [
+        1080,
+        1919
+      ],
+      [
+        1080,
+        1919
+      ]
+    ],
+    "spaces": [
+      "srgb",
+      "srgb"
+    ],
+    "decodedPixelsIdentical": true,
+    "losslessWebp": true
+  },
+  "visual": {
+    "geometry": "Six pointed open petals retained and no center bead added. Petals more symmetrical and chain arrangement differs from primary",
+    "background": "Branding visible and similar scale, exact pixel preservation not established",
+    "count": "One necklace with six-petal pendant and partial chain",
+    "finish": "Reflective gold without artificial sparkle or background shadow",
+    "placement": "Endpoints inset but slightly outside specified horizontal bounds",
+    "verdict": "Draft requiring review"
+  },
+  "approval": "pending user review",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": "Necklace/178793/out put/careful-1793718667375/delivery-e4ea51b3-2c64-497a-9b3b-0c90469b1e68",
+  "finishedAt": "2026-11-03T15:14:55.642Z"
+}

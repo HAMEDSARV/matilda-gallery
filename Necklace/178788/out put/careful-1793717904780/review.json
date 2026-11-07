@@ -1,0 +1,54 @@
+{
+  "product": "Necklace/178788",
+  "requestFile": "Necklace/178788/out put/careful-1793717904780/request.txt",
+  "references": [
+    "F:/CODEX/agent skill site/Necklace/178788/2.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/1.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/background.png",
+    "F:/CODEX/agent skill site/Necklace/178788/color.jpeg",
+    "F:/CODEX/agent skill site/Necklace/178788/out put/careful-1793717904780/material-reference.png"
+  ],
+  "categoryPrompt": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "a7aae0bf41d9f112046448cf0b70733c56cc4dee6d2b2239c227488db33f4b5c",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "technical": {
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "dimensions": [
+      [
+        1080,
+        1919
+      ],
+      [
+        1080,
+        1919
+      ]
+    ],
+    "spaces": [
+      "srgb",
+      "srgb"
+    ],
+    "decodedPixelsIdentical": true,
+    "losslessWebp": true
+  },
+  "visual": {
+    "geometry": "Flat five-opening flower and flat center better match source; previous raised center ball removed. Exact proportions and chain arrangement not preserved.",
+    "background": "Upper branding still enlarged relative to master; lower wordmark remains visible",
+    "count": "One necklace; no invented back chain",
+    "finish": "Polished gold with controlled reflections; color not numerically measured",
+    "placement": "Chain reaches image edges, outside specified placement rectangle",
+    "extraObjects": "No mannequin, finger, new text, sparkle or cast shadow visible",
+    "dimensions": "1080x1919, not exact target",
+    "verdict": "Needs review; do not claim full prompt compliance"
+  },
+  "approval": "pending user review",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": "Necklace/178788/out put/careful-1793717904780/delivery-7904c7a2-cb7c-4843-850a-e52c03b66ca4",
+  "finishedAt": "2026-11-03T15:01:13.810Z"
+}

@@ -1,0 +1,15 @@
+{
+  "inputFingerprint": "cd7245691b9938fa3411a9655446c8be3c82c6a5e65708c4310881594b52d814",
+  "promptFile": "PROMPT\\prompt Leather bracelet.docx",
+  "promptSha256": "1ec2cde873ff5bd5d510cd35d83f6b5e7b944667140aa2e10f9349f01974ab29",
+  "sourceHashes": {
+    "1.jpeg": "3cc610b213809a18644e85d7dce6e4ff3f4b137932c24b53f074d8a15ac902f9",
+    "2.jpeg": "32786a7b266fd2ed34eb8f0094b39967e0990b0e49a43d098e9be1dd29d3cc98",
+    "3.jpeg": "16dcab6f8787bb67c2638956a760e55f06d9898288cc7c73222c4ca3c7d60918",
+    "background.jpeg": "da36170629b4812da7d11cf372f25f2c21734fe833b324d9d35c343d9dbccb6b",
+    "color.jpeg": "cbbded627dedcb8de3fd7d8ec3a3d23be77aa45b98bbb973f2e28465ccc5dc87"
+  },
+  "status": "ready",
+  "visualApproval": "pending",
+  "baselineRecordedAt": "2026-11-03T11:05:34.082Z"
+}

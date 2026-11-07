@@ -1,0 +1,20 @@
+{
+  "source": "Necklace\\2\\out put\\revision-lighting-FZmFcX\\generated.png",
+  "sourceSha256": "34a6527288e3842ad15a9c1c4e224517621e7a4d9efed286e19b60173355362d",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "dimensions": [
+    1080,
+    1919
+  ],
+  "method": "lanczos3",
+  "aiReconstruction": false,
+  "sharpening": false,
+  "cropping": false,
+  "exactTargetDimensions": false,
+  "decodedPixelsIdentical": true,
+  "visualApproval": "pending",
+  "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+}

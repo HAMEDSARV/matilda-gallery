@@ -1,0 +1,14 @@
+Product: Necklace/178777. Metallic gloss comparison sample.
+Status: comparison sample accepted by Matilda on 2026-11-03. Recorded technical limitations remain. Further generation held while answering Matilda's token-consumption question.
+Actual request: request-v2.txt. request.txt was not executed because six references exceeded the connected tool's five-image limit. That validation failure produced no image.
+Prompt: unchanged full PROMPT/prompt Necklace.docx, then the full lighting/polish addendum, the full metallic-reference addendum, and asset-role mapping.
+Original DOCX SHA256: d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4
+Primary geometry reference: 1.jpeg. Supporting photograph: 2.jpeg. Photograph 3.jpeg was inspected but excluded from the actual generation call to fit the five-reference limit.
+Background: background.png. Gold reference: color.jpeg. Both from Necklace/178777 only.
+Material reference: material-reference.png, copied without modifying C:/Users/matilda1/Downloads/base.png. Intended role: gloss/specular response only, no geometry/background/layout transfer.
+Model/quality: user requests GPT Image 2.5 Sunburst/max. Tool does not expose or independently report model or quality settings. No agent settings changed.
+Visual observation: distinct bright highlights and localized dark reflections are more evident on the pendant, particularly the bail and heart sides. The metallic appearance is stronger than the flatter previous example. However pendant edges appear rounded and thicker, and chain arrangement/product placement and upper branding scale differ from the source/master. Material reference appears to have influenced protected geometry/layout despite the explicit role restriction. Do not claim exact preservation or approve the entire batch from this file.
+Gold numerical accuracy and background pixel equality were not verified.
+Generated image: generated.png, 941x1672.
+Delivery: delivery-d54322d3-80cd-4a00-a829-11fe6ea7d335/final.png and final.webp, 1080x1919, not exact 1080x1920. Lanczos3 resampling, no sharpening or AI reconstruction during export. PNG/WebP decoded pixels identical.
+All previous product images and the earlier lighting batch are preserved. Only this comparison sample was generated in the present step; no batch continuation is claimed.

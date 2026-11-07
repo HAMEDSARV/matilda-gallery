@@ -1,4 +1,5 @@
 .venv/
+.venv-graphify/
 .token-optimizer-source/
 .graphify-source/
 node_modules/

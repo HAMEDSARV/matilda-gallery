@@ -1,0 +1,55 @@
+{
+  "product": "Necklace/178958",
+  "run": "Necklace/178958/out put/single-1794055256620",
+  "status": "needs_review",
+  "order": [
+    "Necklace/178958"
+  ],
+  "primary": "F:\\CODEX\\agent skill site\\Necklace\\178958\\3.jpeg",
+  "references": [
+    "F:\\CODEX\\agent skill site\\Necklace\\178958\\3.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178958\\1.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178958\\2.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178958\\background.png",
+    "F:\\CODEX\\agent skill site\\Necklace\\178958\\color.jpeg"
+  ],
+  "promptFile": "PROMPT/prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "archivedPromptSha256": "1399911EE6A009FC6FEE4F96DA015D5453984280DFB081C2494F9CB56C5360DE",
+  "requestedModel": "GPT Image 2.5 Sunburst",
+  "requestedQuality": "max",
+  "userAuthorization": "Built-in tool test authorized in project instructions",
+  "actualModel": "not exposed",
+  "actualQuality": "not exposed",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "deliveryDimensions": [
+    1080,
+    1919
+  ],
+  "exactTarget": false,
+  "visual": {
+    "oneProduct": true,
+    "brandingVisible": true,
+    "geometry": "Pendant/chain proportions differ from source; chain details reconstructed",
+    "missingParts": "Chain remains partial; eye appears as gemstone unsupported by source",
+    "background": "Appearance similar; pixel-exact preservation not verified",
+    "gold": "Numerical midtone accuracy not measured",
+    "placement": "Chain endpoints outside 10–90% horizontal placement boundary",
+    "extraEffects": "No obvious cast shadows, extra text or sparkle"
+  },
+  "tokens": {
+    "instructions": null,
+    "planningAndReferences": null,
+    "imageGeneration": null,
+    "exportAndVerification": null,
+    "reason": "Current session transcript not found by token-optimizer; image tool did not expose usage; unavailable does not mean zero"
+  },
+  "counts": {
+    "success": 0,
+    "failed": 0,
+    "needsReview": 1
+  }
+}

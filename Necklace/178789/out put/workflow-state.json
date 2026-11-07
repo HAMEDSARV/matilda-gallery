@@ -1,0 +1,21 @@
+{
+  "inputFingerprint": "f5e96888488af1508aef35b8a333f5fd3f6c39326f335760c29a770a13ac3865",
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "sourceHashes": {
+    "1.jpeg": "d2d362ffb37d651ef4f26f766bebb3ede2f2865d307c62827789bef7a4800936",
+    "2.jpeg": "a3b797ae45124f8ef0e6c2184211e0682f6a6feea4cb643135c713b22fd0ecad",
+    "3.jpeg": "c62744fc73427ecde95490d3c86a1c4be686ef65f77013b260bbc9e60787a2f3",
+    "background.png": "9e263d679875bc2af4e080c941502d31e67ef57b38133108bc2515475474cb53",
+    "color.jpeg": "cbbded627dedcb8de3fd7d8ec3a3d23be77aa45b98bbb973f2e28465ccc5dc87"
+  },
+  "status": "review_pending",
+  "visualApproval": "pending",
+  "baselineRecordedAt": "2026-11-03T11:05:11.157Z",
+  "lastAttempt": {
+    "directory": "Necklace/178789/out put/careful-1793718115579",
+    "delivery": "Necklace/178789/out put/careful-1793718115579/delivery-be882b0b-440c-4f24-97ad-0e3fc334af25",
+    "status": "draft_needs_review",
+    "requestSha256": "9a543e5ebcd5e322eda41fbfffc38c027f6e97697cd2e87ec77d09f27bfc9b96"
+  }
+}

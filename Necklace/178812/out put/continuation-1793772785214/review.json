@@ -1,0 +1,56 @@
+{
+  "product": "Necklace/178812",
+  "directory": "Necklace\\178812\\out put\\continuation-1793772785214",
+  "primary": "2.jpeg",
+  "refs": [
+    "F:\\CODEX\\agent skill site\\Necklace\\178812\\2.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178812\\1.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178812\\background.png",
+    "F:\\CODEX\\agent skill site\\Necklace\\178812\\color.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178812\\out put\\continuation-1793772785214\\material-reference.png"
+  ],
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "3c8b577d3da879de0c880b73da5485b01b88b1c282e5881ef4137501a4a62d13",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "status": "failed_wrong_product",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": {
+    "destination": "Necklace\\178812\\out put\\continuation-1793772785214\\delivery-8562f097-f35d-4620-b0b1-19ea3e7d0a9e",
+    "source": "Necklace\\178812\\out put\\continuation-1793772785214\\generated.png",
+    "sourceSha256": "e201718f7aa8a2e88b611628feb05252896e917d3ded5de95f1f9312568b9109",
+    "sourceDimensions": [
+      941,
+      1672
+    ],
+    "dimensions": [
+      1080,
+      1919
+    ],
+    "method": "lanczos3",
+    "aiReconstruction": false,
+    "sharpening": false,
+    "cropping": false,
+    "exactTargetDimensions": false,
+    "decodedPixelsIdentical": true,
+    "visualApproval": "pending",
+    "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+  },
+  "technical": {
+    "directory": "Necklace\\178812\\out put\\continuation-1793772785214\\delivery-8562f097-f35d-4620-b0b1-19ea3e7d0a9e",
+    "dimensions": [
+      1080,
+      1919
+    ],
+    "pixelsIdentical": true,
+    "losslessWebp": true,
+    "colourSpace": "srgb"
+  },
+  "visual": {
+    "verdict": "Generated crown-heart material-reference product instead of photographed three-circle charm; incorrect result retained, no approval inferred"
+  },
+  "finishedAt": "2026-11-04T06:15:29.125Z"
+}

@@ -1,0 +1,56 @@
+{
+  "product": "Necklace/178957",
+  "directory": "Necklace\\178957\\out put\\continuation-1793773801541",
+  "primary": "2.jpeg",
+  "refs": [
+    "F:\\CODEX\\agent skill site\\Necklace\\178957\\2.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178957\\1.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178957\\background.png",
+    "F:\\CODEX\\agent skill site\\Necklace\\178957\\color.jpeg",
+    "F:\\CODEX\\agent skill site\\Necklace\\178957\\out put\\continuation-1793773801541\\material-reference.png"
+  ],
+  "promptFile": "PROMPT\\prompt Necklace.docx",
+  "promptSha256": "d1ef3d1b41b593e32673bb93f2b51fa60d913944e38e0a904a545191e72416e4",
+  "requestSha256": "0bba96002c671b2b048891a5820cf7f41ae7f282d3e417e87a34762d8aa3a5b5",
+  "modelRequested": "GPT Image 2.5 Sunburst / max",
+  "actualModel": "not independently exposed",
+  "quality": "not independently exposed",
+  "status": "delivered_visual_review_waived",
+  "numericGoldAccuracy": "not measured",
+  "pixelExactPreservation": "not certified",
+  "delivery": {
+    "destination": "Necklace\\178957\\out put\\continuation-1793773801541\\delivery-aa5b26c7-3b8a-4f1e-8943-40893839041c",
+    "source": "Necklace\\178957\\out put\\continuation-1793773801541\\generated.png",
+    "sourceSha256": "1c0dbc31424a87773b37210ad0a7c1f4861261d2ced80f39912cb669b4f62cde",
+    "sourceDimensions": [
+      916,
+      1717
+    ],
+    "dimensions": [
+      1024,
+      1920
+    ],
+    "method": "lanczos3",
+    "aiReconstruction": false,
+    "sharpening": false,
+    "cropping": false,
+    "exactTargetDimensions": false,
+    "decodedPixelsIdentical": true,
+    "visualApproval": "pending",
+    "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+  },
+  "technical": {
+    "directory": "Necklace\\178957\\out put\\continuation-1793773801541\\delivery-aa5b26c7-3b8a-4f1e-8943-40893839041c",
+    "dimensions": [
+      1024,
+      1920
+    ],
+    "pixelsIdentical": true,
+    "losslessWebp": true,
+    "colourSpace": "srgb"
+  },
+  "visual": {
+    "verification": "Detailed visual review waived by user on 2026-11-04 after approval of sample 178794; no exact geometry/background/color certification"
+  },
+  "finishedAt": "2026-11-04T06:32:20.639Z"
+}

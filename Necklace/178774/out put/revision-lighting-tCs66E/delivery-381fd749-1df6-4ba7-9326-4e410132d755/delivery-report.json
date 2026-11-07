@@ -1,0 +1,20 @@
+{
+  "source": "Necklace\\178774\\out put\\revision-lighting-tCs66E\\generated.png",
+  "sourceSha256": "0605d7128fe2bde44af7fb28edfa143618f5b499b178edda49cb3c43b9b6a987",
+  "sourceDimensions": [
+    941,
+    1672
+  ],
+  "dimensions": [
+    1080,
+    1919
+  ],
+  "method": "lanczos3",
+  "aiReconstruction": false,
+  "sharpening": false,
+  "cropping": false,
+  "exactTargetDimensions": false,
+  "decodedPixelsIdentical": true,
+  "visualApproval": "pending",
+  "note": "Proportions preserved with pixel rounding. Resampling changes pixels; no recovery of missing detail or exact background preservation claimed."
+}

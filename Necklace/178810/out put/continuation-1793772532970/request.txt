@@ -1,0 +1,274 @@
+TASK: MATILDAGALLERY — REFERENCE-GUIDED JEWELRY ADVERTISEMENT
+TARGET: IMAGE 2.5
+OUTPUT: VERTICAL 9:16, 1080 × 1920 PX
+
+Create one photorealistic jewelry advertisement by faithfully editing and compositing the supplied images. This is NOT a jewelry-design or background-redesign task.
+
+Prioritize product accuracy, background preservation, and consistent gold color over creative enhancement.
+
+INPUT ROLES
+
+• “background.webp”: The actual Matildagallery master background. Use this image directly, not as inspiration for a recreated background.
+• “1”, “2”, “3”: Different photographs of the SAME jewelry item. Select one supported front-facing photograph as the primary source. Use the others only to verify details.
+• “color.webp”: Gold appearance reference card.
+• Fixed gold midtone target: sRGB HEX #D4AF57, RGB 212, 175, 87.
+
+Identify references by filename. If roles are ambiguous or essential images are missing, ask for clarification.
+
+1. EXACT 9:16 CANVAS — CONTROLLED BACKGROUND ADAPTATION
+
+Final canvas: 1080 × 1920 pixels, portrait orientation.
+
+The following is the ONLY permitted exception to preserving the background’s native dimensions:
+
+If necessary, uniformly scale the original background to fit entirely inside the final canvas, preserving its aspect ratio. Center it without cropping.
+
+If its aspect ratio differs slightly from 9:16, fill only the resulting narrow outer margins with a flat color sampled from the adjacent background edge. Do not use generative extension, invent texture, or stretch the image.
+
+Do not crop any original background content.
+Do not move or resize branding independently.
+If fitting would require substantial added margins, request an approved 9:16 background instead.
+
+After this one-time canvas adaptation, treat the resulting background as the fixed master for every image in the collection.
+
+Background preservation means preserving this approved, adapted master. Do not claim that resizing leaves the original pixels unchanged.
+
+2. BACKGROUND LOCK
+
+Preserve the master background’s appearance, including:
+• Upper MG monogram and diamond motif.
+• Upper MATILDAGALLERY lettering and decorative lines.
+• Large lower MATILDAGALLERY lettering.
+• Original white and near-white tones.
+• Existing subtle surface variations.
+• All graphic positions and spacing.
+
+Do not redraw, retype, regenerate, recolor, relight, blur, sharpen, smooth, or replace the background.
+
+Do not interpret the background as a new material.
+Do not introduce paper, fabric, marble, plaster, grain, gloss, or additional texture.
+Do not replace it with pure white.
+Do not recolor branding to match the jewelry.
+
+Only the product may cover empty central surface.
+All branding must remain unobstructed.
+Real jewelry openings must reveal the unchanged master background.
+
+No added cast shadows, drop shadows, reflections, glow, halos, or vignette.
+
+3. PRODUCT GEOMETRY LOCK
+
+Use the actual photographed jewelry from ONE primary source.
+Present exactly one product.
+
+Preserve:
+• Silhouette, component count, and proportions.
+• Chain-link shapes, spacing, and connections.
+• Chain arrangement and natural overlaps.
+• Pendant outline and internal geometry.
+• Visible thickness, engraving, settings, and gemstones.
+• Real surface texture and finish.
+
+Do not redraw, redesign, stretch, warp, bend, straighten, rearrange, symmetrize, embellish, or reconstruct the jewelry.
+
+Do not combine poses from different photographs.
+Do not use assumed symmetry to repair details.
+
+Use a supported front-facing photograph.
+Do not synthesize a front view by rotating an angled product in 3D.
+If no suitable front-facing photograph exists, request one.
+
+If the source shows only part of the product, preserve that partial view.
+Do not complete missing chains, cropped ends, hidden connectors, or unseen surfaces.
+Do not invent details obscured by blur, glare, or deep shadow.
+
+4. PERMITTED PRODUCT EDITS
+
+Allow only:
+• Precise extraction.
+• Translation.
+• Uniform proportional scaling.
+• Selective yellow-gold hue and chroma normalization.
+• Gentle yellow-gold-only exposure and shadow correction where photographic detail exists.
+
+Preserve actual chain openings, thin contours, and negative spaces.
+Do not mistake dark reflections for holes.
+
+No missing or fused links, thickened edges, artificial outlines, cutout halos, source-background residue, or invented microdetail.
+
+Do not alter gemstones, pearls, enamel, other metals, or genuine dark finishes.
+
+5. FIXED GOLD COLOR — #D4AF57
+
+Use sRGB HEX #D4AF57 / RGB 212, 175, 87 as the representative yellow-gold MIDTONE target in every output.
+
+The numerical target takes precedence over unwanted color casts in product photographs and minor display or compression differences in “color.webp”.
+
+Use the reference card only for general gold appearance.
+Do not copy its diagonal highlight, gradient, shadows, typography, or layout.
+Do not infer actual gold purity from the reference card.
+
+IMPORTANT:
+#D4AF57 is a midtone anchor, NOT a flat fill or the required value of every metal pixel.
+
+Bring moderately illuminated yellow-gold surfaces toward this target while preserving natural luminance variation.
+
+Retain:
+• Naturally pale, low-saturation highlights.
+• Refined warm gold midtones.
+• Restrained darker reflections and real recess shading.
+• Original surface finish and texture.
+
+Do not force the entire product’s average color to equal the target.
+Do not turn matte or brushed gold into polished gold.
+
+Avoid orange, copper-like, greenish, muddy brown, gray, oversaturated yellow, or washed-out gold.
+
+Apply color corrections only to visible yellow-gold metal.
+Never apply them to the background or branding.
+
+6. LUMINOUS GOLD WITHOUT INVENTED LIGHTING
+
+The jewelry should look clear, luminous, and naturally metallic—not blackened, dull, or painted yellow.
+
+Where real detail exists:
+• Gently lift underexposed midtones.
+• Reduce excessive broad shadow density.
+• Preserve controlled highlights without clipping.
+• Retain engraving, texture, and metallic depth.
+
+Preserve the locations and shapes of existing highlights and reflections.
+Their intensity may be adjusted gently.
+
+Do not copy shadows or darkness from “color.webp”.
+Do not darken the product to match the background.
+Do not introduce new black reflection bands, smoky shading, or dark outlines.
+
+Do not simulate new softboxes or invent specular patterns.
+Retain small natural dark reflections and genuine recess shading.
+Do not remove all contrast.
+
+No artificial sparkle, glitter, starbursts, bloom, glow, lens flare, or plastic appearance.
+
+If detail is absent from deep shadow or clipped highlights, do not fabricate it. Request a better photograph if necessary.
+
+7. FIXED COMPOSITION
+
+Use a consistent central product-placement rectangle:
+• Left boundary: 10% of canvas width.
+• Right boundary: 90% of canvas width.
+• Top boundary: 19% of canvas height.
+• Bottom boundary: 85% of canvas height.
+
+Treat this rectangle as a placement limit, not permission to cover branding.
+If any protected background element intersects it, preserve that element and request a revised template.
+
+Center the bounding box of the actual visible jewelry within this rectangle.
+Uniformly scale the product to fit within 95% of the rectangle’s width and height, with whichever dimension reaches its limit first determining the scale.
+
+Do not stretch a compact product to meet a height target.
+Do not crop any visible product part.
+Do not invent missing sections to fill the composition.
+
+8. BATCH CONSISTENCY
+
+For every output, reuse:
+• The same approved 1080 × 1920 background master.
+• The same placement rectangle and proportional fit rule.
+• The same #D4AF57 gold midtone target.
+• The same reference card and export color space.
+
+Do not regenerate or reinterpret the background between products.
+Do not use a previous advertisement containing jewelry as the background for the next product.
+Do not progressively re-edit generated outputs.
+
+For repeated images of the SAME product, reuse its approved source, extraction, position, scale, and color correction instead of generating a new interpretation.
+
+For DIFFERENT products, preserve each item’s own geometry, finish, and natural reflection structure.
+Normalize gold midtones consistently while correcting each source’s exposure individually.
+
+Consistency means the same background and gold-color standard, not identical reflections on different shapes.
+
+9. OUTPUT AND HONEST VERIFICATION
+
+Return one finished image.
+Preferred export: lossless PNG, sRGB, 1080 × 1920 pixels.
+
+If exact pixel dimensions or PNG export are unavailable, disclose the actual output dimensions or format instead of claiming compliance.
+
+Before delivery, check:
+• Canvas is vertical 9:16.
+• Background matches the approved adapted master.
+• Branding remains unchanged and fully visible.
+• Exactly one faithful product is shown.
+• Product geometry and photographed details remain intact.
+• No missing components were invented.
+• Gold midtones follow #D4AF57 without flattening reflections.
+• No added shadows, textures, objects, text, or effects appear.
+• Placement follows the fixed template.
+
+Do not claim pixel-exact preservation, numerical color accuracy, or deterministic batch consistency unless actually verified.
+
+FINAL INSTRUCTION
+
+Use the supplied background and photographed jewelry as assets to preserve, not subjects to reinterpret.
+Lock the adapted background master.
+Lock product geometry and arrangement.
+Standardize visible yellow-gold midtones to #D4AF57 while retaining natural metallic variation.
+
+If available editing capabilities cannot respect these restrictions, explain the limitation rather than silently replacing faithful editing with an approximate reconstruction.
+
+MATILDA USER OVERRIDE — LIGHTING AND GOLD SURFACE
+Authorized by Matilda on 2026-11-03 after inspecting generated images.
+Append this entire addendum after the unchanged category-specific prompt.
+
+This later instruction overrides earlier requirements to preserve the photographed gold's shadows, highlight locations, reflection patterns and superficial scratches, and earlier prohibitions on new product lighting or polishing. All other restrictions remain binding, especially product geometry, real openings, component count, background, branding and missing-part protection.
+
+Use the original product photographs again, never a previous generated advertisement.
+Preserve the product's actual silhouette, proportions, thickness, link construction, connections, pendant design, engraving and settings. Do not distort, bend, thicken, fuse, symmetrize or redesign any component. Never invent hidden or missing parts.
+
+Disregard incidental shadows, black mannequin reflections and uneven illumination in the source product photographs when setting the visible gold's appearance. Do not reproduce the reference card's diagonal lighting or shadow gradients.
+
+Give visible yellow-gold surfaces bright, even, soft studio illumination with broad, clean, controlled metallic highlights. Lift dirty-looking dark patches and avoid harsh black reflection bands, muddy gold, orange casts, clipped white highlights, fake sparkle, bloom and glow. Preserve enough gradual tonal variation to communicate real metal and depth.
+
+Render visible yellow-gold surfaces smooth, polished and free from superficial scratches, scuffs and imaging noise. This is an authorized surface-retouching change, not permission to alter shape or remove design details. Keep intentional engraving, hallmarks, decorative cuts, real edges, recesses and true openings. Do not polish gemstones, pearls, enamel, leather or non-gold materials. Avoid a plastic, waxy, flattened or painted-metal appearance.
+
+Retain #D4AF57 as the representative yellow-gold midtone anchor with naturally lighter highlights. It is not a flat fill and must not be forced on every pixel.
+
+Apply these changes only to the gold product. Preserve the supplied background, branding, hand and clothing wherever applicable according to the category prompt. Add no new cast shadow to the background. For bracelets, retain only contact shading permitted by that category prompt.
+
+For this revision, first produce a fresh comparison sample. Do not overwrite any previous image. Keep actual output dimensions and tool/model verification limits in the report. A pleasing result does not prove exact geometry preservation.
+
+
+MATILDA USER OVERRIDE — METALLIC APPEARANCE REFERENCE
+Authorized after Matilda compared base.png with original.png on 2026-11-03.
+Append after the unchanged category prompt and lighting/polish addendum.
+
+The supplied material-reference.png (a copy of Matilda's base.png) is a reference ONLY for polished yellow-gold material response, specular clarity and highlight-to-reflection contrast. It is NOT a geometry, thickness, bevel, composition, branding, background or crop reference.
+
+This newer instruction overrides any earlier interpretation of even illumination, soft light, lifted shadows or removed black reflections that would flatten the metal. Remove dirty source lighting and mannequin reflections without removing the controlled darker reflections that make polished metal readable.
+
+Match the reference's convincing polished-metal appearance: luminous gold midtones, distinct clean specular highlights, crisp bright edge reflections and restrained narrow dark reflected accents. Use directional studio lighting that creates readable light-to-dark transitions across existing curved metal surfaces. Keep highlight detail and avoid clipped white patches. Keep dark reflections localized, intentional and neutral-warm rather than broad muddy or blackened areas.
+
+Gold must read as smooth, reflective, freshly polished metal, not matte yellow paint, satin plastic, wax, a uniform flat fill or a blurred airbrushed surface. Retain the #D4AF57 representative midtone anchor without flattening natural metal luminance variation. Do not copy the color card's diagonal gradient or typography.
+
+Surface polish may remove superficial scratches as already authorized. Preserve real edges, intentional engraving, texture that belongs to the design, genuine openings, connections and component count. Never add artificial sparkle stars, glow, bloom, lens flare or a cast shadow to the background.
+
+The actual product photographs remain the sole geometry authority. Do not inflate the pendant, round its bevels, thicken its edges or links, straighten its chain or alter its silhouette to imitate the material reference. Preserve the primary source's photographed arrangement and partial view. No unseen components may be invented. Other product photographs verify details only.
+
+Keep the product-folder background and branding according to the original category prompt. Do not import the material reference's necklace, layout, image proportions, logo size, text or background. Do not use any previous generated product image as the geometry source.
+
+First generate one comparison sample of the crown-heart necklace Necklace/178777 from its original photographs, retaining previous outputs for comparison. Do not claim exact preservation or measured color accuracy without verification.
+
+
+PROJECT EXECUTION ADDENDUM — does not replace the original prompt
+Product folder: Necklace/178810
+Primary product photograph: F:\CODEX\agent skill site\Necklace\178810\2.jpeg. Preserve its photographed geometry, arrangement and partial view.
+Supporting photographs: 1.jpeg — details verification only; never mix poses.
+Background asset: F:\CODEX\agent skill site\Necklace\178810\background.png — fulfills background.webp role.
+Gold color reference: F:\CODEX\agent skill site\Necklace\178810\color.jpeg — fulfills color.webp role.
+Material reference: F:\CODEX\agent skill site\Necklace\178810\out put\continuation-1793772532970\material-reference.png — authorized polished gold material response only; no geometry, layout or background transfer.
+Use only this product folder's product references. Keep all visible primary-photo components together as one proportionally scaled object within the placement rectangle; source-cropped endpoints remain inside the placement rectangle, with no unseen completion.
+The first comparison samples in the retained addenda were already produced. This is the user-authorized continuation of remaining products.
+Create one finished composition. Local export creates lossless PNG and WebP from the same image.
+Destination: Necklace\178810\out put\continuation-1793772532970
